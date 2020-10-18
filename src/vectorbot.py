@@ -13,4 +13,4 @@ async def on_ready():
 
 bot.add_cog(VectorBotGeneralCommands(bot))
 bot.add_cog(PizzaOrder(bot))
-bot.run('NzYxMTA1NzYwMTUxMTQyNDEw.X3Vw-Q.-viLNNjqO1lhXyx2bdAr2XbR08w')
+bot.run('')
